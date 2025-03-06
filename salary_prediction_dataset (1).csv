@@ -1,0 +1,201 @@
+Gender,Country,Location,Education Qualification,Years of Experience,Job Role,Salary ($)
+Female,Canada,Urban,Master's,8.8,Manager,31710
+Male,Canada,Rural,PhD,5.0,IT Support,79761
+Male,Canada,Urban,PhD,4.2,Manager,47787
+Female,UK,Urban,Bachelor's,8.7,Manager,41649
+Male,Australia,Rural,Bachelor's,7.4,Manager,140841
+Male,Germany,Suburban,Bachelor's,6.3,IT Support,102915
+Female,Germany,Urban,Master's,9.1,Data Scientist,59589
+Female,India,Suburban,Master's,5.6,Project Manager,115206
+Female,UK,Rural,Master's,8.2,Research Scientist,59742
+Male,UK,Rural,PhD,9.9,IT Support,147318
+Male,USA,Urban,PhD,8.8,QA Engineer,77777
+Male,Australia,Rural,Bachelor's,14.8,Software Dev,133466
+Female,UK,Urban,Bachelor's,12.4,Research Scientist,51609
+Female,India,Suburban,Bachelor's,9.9,Project Manager,108249
+Female,Australia,Rural,Bachelor's,8.8,Manager,59503
+Male,USA,Rural,PhD,6.7,Software Dev,57900
+Female,Australia,Suburban,PhD,8.9,Software Dev,44185
+Female,Canada,Suburban,PhD,1.2,Manager,91900
+Female,UK,Rural,Master's,13.5,Project Manager,43217
+Female,Canada,Suburban,Bachelor's,3.7,Research Scientist,74922
+Female,UK,Urban,Master's,6.7,Software Dev,119535
+Female,Canada,Suburban,PhD,14.5,Research Scientist,81207
+Male,UK,Urban,Bachelor's,11.7,QA Engineer,126863
+Female,Canada,Urban,PhD,8.8,IT Support,84605
+Female,Germany,Urban,PhD,13.8,Manager,85659
+Male,USA,Urban,Bachelor's,8.9,Data Scientist,80723
+Female,UK,Rural,Master's,10.6,IT Support,40942
+Male,Canada,Urban,Master's,14.7,IT Support,88372
+Male,Germany,Urban,Master's,3.7,Manager,117101
+Female,Australia,Suburban,Master's,9.8,Research Scientist,81640
+Male,India,Suburban,Master's,9.0,Data Scientist,52347
+Female,Germany,Rural,PhD,4.1,Project Manager,97486
+Female,India,Urban,Master's,14.0,QA Engineer,115453
+Female,UK,Suburban,Master's,14.7,QA Engineer,84776
+Male,Germany,Suburban,Bachelor's,9.8,QA Engineer,115504
+Female,Australia,Suburban,PhD,9.0,Data Scientist,101654
+Male,UK,Urban,Master's,8.7,Data Scientist,104224
+Male,Australia,Urban,PhD,1.2,Project Manager,60342
+Male,Australia,Suburban,Master's,13.2,Data Scientist,148899
+Female,USA,Urban,Master's,14.0,Research Scientist,39956
+Male,USA,Urban,Master's,4.3,Research Scientist,145910
+Male,India,Urban,Master's,8.6,Research Scientist,72187
+Male,Canada,Rural,PhD,6.8,Manager,56798
+Female,Canada,Suburban,Bachelor's,3.5,Project Manager,134644
+Male,India,Rural,Master's,12.2,QA Engineer,145413
+Female,Germany,Urban,Bachelor's,2.3,Research Scientist,55468
+Female,USA,Rural,Bachelor's,1.1,QA Engineer,109217
+Female,Canada,Urban,PhD,5.8,Project Manager,143721
+Male,Germany,Suburban,PhD,13.3,Research Scientist,44206
+Male,USA,Suburban,Master's,11.3,Data Scientist,70583
+Male,India,Urban,Bachelor's,13.8,Project Manager,31158
+Female,Germany,Rural,Master's,6.0,IT Support,136275
+Male,India,Rural,Master's,8.9,Software Dev,144139
+Male,Germany,Suburban,Master's,12.1,Project Manager,85593
+Male,Canada,Rural,Master's,1.6,Manager,145992
+Male,India,Suburban,PhD,14.2,Software Dev,94405
+Male,Canada,Suburban,PhD,13.6,Research Scientist,30840
+Male,Germany,Rural,Bachelor's,12.5,QA Engineer,57011
+Female,Canada,Urban,PhD,2.2,Software Dev,147760
+Female,India,Rural,PhD,14.6,Research Scientist,92165
+Male,Canada,Rural,Master's,6.7,Software Dev,96848
+Female,USA,Suburban,Master's,5.7,QA Engineer,87479
+Female,USA,Urban,PhD,9.8,Manager,145787
+Female,UK,Urban,Master's,7.1,Software Dev,104719
+Female,Canada,Suburban,Master's,7.8,Project Manager,107023
+Female,India,Urban,Master's,6.3,Research Scientist,62608
+Female,UK,Suburban,PhD,9.6,Research Scientist,93245
+Male,Germany,Urban,Bachelor's,8.2,Manager,144279
+Male,USA,Rural,Master's,13.2,Manager,128343
+Male,USA,Suburban,PhD,13.4,QA Engineer,46737
+Female,UK,Rural,Bachelor's,8.9,Project Manager,46147
+Female,UK,Suburban,PhD,14.7,Manager,123873
+Male,Germany,Urban,PhD,10.0,Research Scientist,98600
+Female,UK,Urban,Master's,4.6,QA Engineer,123767
+Male,Canada,Urban,Master's,14.1,Software Dev,77986
+Female,USA,Suburban,PhD,6.7,Data Scientist,77255
+Female,USA,Urban,Bachelor's,8.8,Research Scientist,70623
+Female,UK,Suburban,Master's,13.1,Data Scientist,43497
+Female,Germany,Rural,PhD,6.6,IT Support,116027
+Male,UK,Rural,Master's,13.4,Software Dev,129350
+Male,India,Suburban,PhD,14.0,QA Engineer,119886
+Female,Australia,Suburban,PhD,1.5,Project Manager,56455
+Male,USA,Suburban,PhD,10.0,Research Scientist,40709
+Female,USA,Urban,Bachelor's,3.8,QA Engineer,33502
+Male,Australia,Urban,Bachelor's,12.3,QA Engineer,87208
+Male,Australia,Rural,Master's,8.8,QA Engineer,144237
+Female,Canada,Rural,Master's,9.4,QA Engineer,109501
+Female,Germany,Rural,PhD,7.1,IT Support,104577
+Male,Germany,Rural,Master's,6.2,Research Scientist,33537
+Female,Australia,Rural,PhD,14.9,Data Scientist,144518
+Female,India,Urban,Master's,7.5,Software Dev,127898
+Female,India,Urban,Master's,10.5,Software Dev,119701
+Male,Australia,Urban,Bachelor's,3.1,Research Scientist,41141
+Male,India,Suburban,Master's,13.2,QA Engineer,87027
+Male,Australia,Urban,PhD,6.8,IT Support,136765
+Male,USA,Urban,PhD,11.4,QA Engineer,42548
+Female,India,Suburban,Bachelor's,8.6,Research Scientist,85733
+Male,UK,Urban,Bachelor's,1.6,IT Support,57984
+Female,UK,Suburban,Master's,5.4,Data Scientist,105914
+Female,USA,Urban,PhD,2.6,Data Scientist,136144
+Male,Australia,Urban,PhD,1.7,Data Scientist,105111
+Male,Canada,Urban,Bachelor's,11.6,Data Scientist,74967
+Female,Germany,Suburban,Master's,13.6,Research Scientist,118443
+Male,Canada,Suburban,PhD,3.5,QA Engineer,51269
+Female,Germany,Urban,PhD,5.0,Research Scientist,68164
+Female,USA,Urban,Master's,1.1,Manager,31981
+Female,India,Urban,Master's,9.6,IT Support,33790
+Male,UK,Suburban,Bachelor's,12.2,Research Scientist,53770
+Male,Australia,Rural,PhD,12.4,Manager,54771
+Male,India,Urban,PhD,3.6,QA Engineer,116102
+Female,Canada,Suburban,Bachelor's,9.5,IT Support,66389
+Female,UK,Rural,Bachelor's,11.1,IT Support,92222
+Male,India,Rural,Bachelor's,12.3,Data Scientist,125741
+Male,India,Urban,Master's,8.4,Project Manager,101593
+Male,UK,Rural,Bachelor's,2.0,Manager,112778
+Male,UK,Rural,PhD,9.6,Manager,98577
+Female,Germany,Suburban,PhD,6.2,QA Engineer,49297
+Female,Canada,Suburban,Bachelor's,2.9,Software Dev,66074
+Female,UK,Rural,PhD,1.2,Data Scientist,36026
+Female,Germany,Urban,Master's,13.5,Software Dev,143357
+Male,Germany,Rural,Bachelor's,12.7,QA Engineer,37186
+Male,USA,Rural,PhD,2.6,Research Scientist,133899
+Female,UK,Urban,Master's,9.0,Research Scientist,146426
+Female,Canada,Rural,PhD,9.9,Data Scientist,63833
+Female,Australia,Rural,PhD,4.1,Manager,63967
+Female,India,Suburban,Master's,3.5,Data Scientist,120205
+Male,UK,Rural,PhD,1.1,Project Manager,45044
+Male,Canada,Suburban,Bachelor's,9.6,Manager,65377
+Female,Germany,Urban,PhD,6.3,Data Scientist,50683
+Male,India,Suburban,PhD,1.6,Data Scientist,70240
+Male,Australia,Rural,Master's,12.4,Research Scientist,78570
+Female,Australia,Urban,Bachelor's,13.5,Research Scientist,66598
+Male,Germany,Urban,PhD,4.6,Project Manager,91913
+Male,Australia,Suburban,Master's,7.9,IT Support,65146
+Female,USA,Rural,PhD,1.1,Project Manager,32525
+Female,Germany,Rural,Master's,6.9,Project Manager,70703
+Male,USA,Urban,PhD,6.8,Research Scientist,85702
+Male,India,Rural,Master's,13.9,Data Scientist,129348
+Female,UK,Rural,PhD,8.1,Project Manager,80620
+Male,Canada,Rural,Bachelor's,6.5,Manager,76626
+Male,Germany,Rural,Bachelor's,11.9,Software Dev,85689
+Female,USA,Rural,PhD,6.1,Project Manager,83229
+Female,USA,Urban,Bachelor's,11.6,Software Dev,92715
+Female,India,Rural,Master's,13.0,QA Engineer,72904
+Female,Canada,Rural,PhD,2.6,Research Scientist,111710
+Female,India,Suburban,Bachelor's,8.6,Software Dev,72476
+Female,Germany,Suburban,Bachelor's,6.9,Manager,124823
+Male,India,Rural,Master's,14.1,QA Engineer,149269
+Male,Germany,Urban,PhD,6.2,Project Manager,78776
+Male,Germany,Urban,Master's,7.7,Data Scientist,53335
+Male,Canada,Rural,Master's,2.6,Software Dev,97763
+Male,Germany,Rural,PhD,11.7,IT Support,137150
+Female,Australia,Urban,Bachelor's,7.2,Research Scientist,69293
+Female,UK,Suburban,Bachelor's,9.9,Project Manager,66412
+Male,UK,Suburban,PhD,14.5,Research Scientist,115532
+Male,USA,Suburban,Master's,12.8,IT Support,119330
+Female,Canada,Urban,Master's,11.5,Research Scientist,149285
+Male,India,Rural,PhD,6.3,Manager,75565
+Female,India,Rural,Master's,11.2,Research Scientist,80285
+Female,Canada,Urban,PhD,12.8,Software Dev,107034
+Male,Canada,Rural,PhD,5.0,Data Scientist,125730
+Male,Canada,Urban,Bachelor's,12.5,Software Dev,122563
+Male,USA,Rural,Master's,6.4,Research Scientist,39063
+Male,Canada,Rural,PhD,14.1,IT Support,61374
+Male,India,Suburban,Master's,2.7,Research Scientist,130207
+Male,India,Suburban,Bachelor's,14.9,Manager,130694
+Female,Canada,Urban,PhD,3.3,Project Manager,113551
+Male,UK,Urban,Master's,13.4,Data Scientist,138084
+Female,India,Urban,Master's,5.8,Software Dev,107966
+Male,India,Suburban,Master's,1.0,Research Scientist,135938
+Female,UK,Rural,Bachelor's,3.1,Project Manager,51790
+Male,USA,Suburban,Bachelor's,2.5,IT Support,56471
+Female,USA,Urban,Master's,9.5,Project Manager,117338
+Female,Australia,Urban,Bachelor's,11.7,Software Dev,119480
+Male,USA,Suburban,PhD,14.4,Project Manager,38896
+Male,UK,Urban,PhD,12.5,QA Engineer,79434
+Male,India,Suburban,Master's,6.4,Manager,90143
+Female,USA,Suburban,Bachelor's,8.5,Data Scientist,126855
+Female,UK,Rural,Master's,6.1,Data Scientist,72919
+Female,UK,Rural,Master's,9.3,Project Manager,121926
+Male,USA,Urban,PhD,10.5,Project Manager,92377
+Male,Germany,Rural,PhD,10.9,Data Scientist,86548
+Male,USA,Rural,Master's,1.4,Software Dev,32691
+Female,USA,Urban,Bachelor's,8.6,IT Support,108229
+Male,USA,Rural,Master's,3.4,Research Scientist,52345
+Female,Canada,Urban,PhD,1.8,Software Dev,125121
+Male,Australia,Urban,PhD,14.5,Software Dev,80358
+Male,USA,Rural,PhD,4.4,Project Manager,138226
+Female,UK,Rural,Master's,6.0,Data Scientist,30910
+Female,Germany,Suburban,PhD,12.8,Manager,129448
+Female,USA,Urban,Master's,7.3,QA Engineer,117018
+Female,Australia,Suburban,Bachelor's,3.3,Project Manager,70593
+Male,Australia,Urban,Master's,8.4,Project Manager,97032
+Male,Germany,Suburban,Bachelor's,1.8,Research Scientist,104477
+Male,UK,Rural,Master's,3.2,Research Scientist,106353
+Male,UK,Rural,PhD,2.6,Data Scientist,123235
+Female,Germany,Suburban,Master's,10.9,Manager,41875
+Male,UK,Urban,Bachelor's,11.9,Manager,67242
+Female,USA,Rural,Master's,3.5,Software Dev,126963
+Male,India,Rural,Master's,6.3,Data Scientist,66073
